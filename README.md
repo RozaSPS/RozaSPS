@@ -1,52 +1,48 @@
-<h1 align="center" style="color: red;">🔥 Welcome to My GitHub Profile! 🔥</h1>
+<h1 align="center">Halo, saya [Nama Kamu]!</h1>
+<h3 align="center">Software Developer | Tech Enthusiast | Open Source Contributor</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Warrior-F44336?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-E53935?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Never%20Stop%20Building-D32F2F?style=for-the-badge"/>
+---
+
+### Tentang Saya
+
+Saya seorang pengembang perangkat lunak yang berdedikasi, dengan minat dalam pengembangan aplikasi modern, automasi, dan teknologi open-source. Saya percaya bahwa teknologi dapat memecahkan masalah dunia nyata dan saya bersemangat untuk terus belajar dan berkontribusi.
+
+- 🔭 Saat ini fokus pada: **[Proyek atau Teknologi yang Sedang Ditekuni]**
+- 🌱 Sedang mempelajari: **[Bahasa/Framework/Tools terbaru]**
+- 💼 Terbuka untuk kolaborasi di: **Proyek Open Source / Freelance / Startup Tech**
+- 📫 Kontak: **[Email atau LinkedIn]**
+
+---
+
+### Teknologi & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### ⚔️ About Me
-
-Hi, I'm **[Nama Kamu]**, a passionate developer who loves building cool and powerful stuff.
-
-- 🔥 Currently working on: **[Nama Proyek Kamu]**
-- 🧠 Always learning: **[Topik kamu pelajari]**
-- ⚔️ Tech Stack Warrior: **[sebutkan stack kamu]**
-- 📫 Reach me: **[email atau link sosial media]**
-
----
-
-### 🔧 Tech Arsenal
-
-![HTML5](https://img.shields.io/badge/HTML5-E53935?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-D32F2F?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-B71C1C?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-880E4F?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-C62828?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-E53935?style=flat-square&logo=python&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+### Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
 
-### ✉️ Connect With Me
+### Terhubung dengan Saya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF1744?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-D50000?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-C62828?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
+- LinkedIn: [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)
+- Website / Portofolio: [https://yourwebsite.com](https://yourwebsite.com)
+- Email: [yourname@email.com](mailto:yourname@email.com)
 
 ---
 
-### ⚡ Fun Fact
-
-> "Code is red. Debugs are blue. I build stuff, and break it too."
+> *"Berkarya dengan kode, berdampak lewat teknologi."*
