@@ -5,7 +5,7 @@
 
 ### 🧠 Tentang Saya
 
-Halo, saya **andirozaS.SKD**, seorang penggemar dunia cybersecurity dan pengembang yang suka mengeksplorasi keamanan sistem, reverse engineering, dan open-source intelligence (OSINT).
+Halo, saya **andirozaS-SKD**, seorang penggemar dunia cybersecurity dan pengembang yang suka mengeksplorasi keamanan sistem, reverse engineering, dan open-source intelligence (OSINT).
 
 - 🕵️‍♂️ Fokus saat ini: **Ethical Hacking, Red Team Tools, dan Python Scripting**
 - 🔐 Skill utama: **Reconnaissance, Exploitation, Automation, CTF**
@@ -27,18 +27,9 @@ Halo, saya **andirozaS.SKD**, seorang penggemar dunia cybersecurity dan pengemba
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andirozaS.SKD&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andirozaS.SKD&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andirozaS-SKD&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andirozaS-SKD&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 🕸️ Terhubung dengan Saya
-
-- Website / Blog: [https://yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)
-- TryHackMe: [`@USERNAME`](https://tryhackme.com/p/USERNAME)
-- Hack The Box: [`@USERNAME`](https://app.hackthebox.com/profile/USERNAME)
 
 ---
 
