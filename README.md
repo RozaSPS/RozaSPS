@@ -1,48 +1,56 @@
-<h1 align="center">Halo, saya [Nama Kamu]!</h1>
-<h3 align="center">Software Developer | Tech Enthusiast | Open Source Contributor</h3>
+<h1 align="center">💀 Welcome to My Cyber Lab 💀</h1>
+<h3 align="center">Security Enthusiast | Ethical Hacker | Developer</h3>
 
 ---
 
-### Tentang Saya
+### 🧠 Tentang Saya
 
-Saya seorang pengembang perangkat lunak yang berdedikasi, dengan minat dalam pengembangan aplikasi modern, automasi, dan teknologi open-source. Saya percaya bahwa teknologi dapat memecahkan masalah dunia nyata dan saya bersemangat untuk terus belajar dan berkontribusi.
+Halo, saya **[Nama Kamu]**, seorang penggemar dunia cybersecurity dan pengembang yang suka mengeksplorasi keamanan sistem, reverse engineering, dan open-source intelligence (OSINT).
 
-- 🔭 Saat ini fokus pada: **[Proyek atau Teknologi yang Sedang Ditekuni]**
-- 🌱 Sedang mempelajari: **[Bahasa/Framework/Tools terbaru]**
-- 💼 Terbuka untuk kolaborasi di: **Proyek Open Source / Freelance / Startup Tech**
-- 📫 Kontak: **[Email atau LinkedIn]**
+- 🕵️‍♂️ Fokus saat ini: **Ethical Hacking, Red Team Tools, dan Python Scripting**
+- 🔐 Skill utama: **Reconnaissance, Exploitation, Automation, CTF**
+- ⚙️ Tools favorit: **Burp Suite, Nmap, Metasploit, Wireshark, Python**
+- 📫 Kontak saya: **[Email kamu] | [LinkedIn kamu]**
 
 ---
 
-### Teknologi & Tools
+### ⚔️ Arsenal Teknologi
 
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-000000?style=flat&logo=data:image/svg+xml;base64,&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-000000?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-BurpSuite-000000?style=flat&logoColor=orange" />
 </p>
 
 ---
 
-### Statistik GitHub
+### 🧰 Repositori Pilihan
+
+- [`osint-scripts`](https://github.com/USERNAME/osint-scripts): Alat kecil untuk gathering informasi dari sumber terbuka.
+- [`payload-collections`](https://github.com/USERNAME/payload-collections): Kumpulan payload untuk XSS, SSRF, SQLi, dll.
+- [`ctf-tools`](https://github.com/USERNAME/ctf-tools): Kumpulan tools & skrip untuk kompetisi Capture The Flag.
+
+---
+
+### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### Terhubung dengan Saya
+### 🕸️ Terhubung dengan Saya
 
+- Website / Blog: [https://yourwebsite.com](https://yourwebsite.com)
 - LinkedIn: [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)
-- Website / Portofolio: [https://yourwebsite.com](https://yourwebsite.com)
-- Email: [yourname@email.com](mailto:yourname@email.com)
+- TryHackMe: [`@USERNAME`](https://tryhackme.com/p/USERNAME)
+- Hack The Box: [`@USERNAME`](https://app.hackthebox.com/profile/USERNAME)
 
 ---
 
-> *"Berkarya dengan kode, berdampak lewat teknologi."*
+> "Amankan sistemmu sebelum seseorang melakukannya untukmu — dengan cara yang salah."
