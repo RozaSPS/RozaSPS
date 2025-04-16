@@ -1,35 +1,52 @@
-### Hi there, I'm [Nama Kamu]!
+<h1 align="center" style="color: red;">🔥 Welcome to My GitHub Profile! 🔥</h1>
 
-Saya seorang [pekerjaan atau aktivitas kamu sekarang] yang suka [hal yang kamu minati, misalnya coding, desain, open-source, dll].
-
-- 🔭 Saat ini sedang mengerjakan: [nama proyek atau kegiatan]
-- 🌱 Sedang belajar: [topik yang kamu pelajari sekarang]
-- 💬 Tanya saya tentang: [topik yang kamu kuasai]
-- 📫 Cara menghubungi saya: [email atau link sosmed]
-- ⚡ Fun fact: [fakta menarik tentang kamu]
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Warrior-F44336?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-E53935?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Never%20Stop%20Building-D32F2F?style=for-the-badge"/>
+</p>
 
 ---
 
-### Tools & Technologies
+### ⚔️ About Me
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-*(Tambahkan sesuai stack kamu)*
+Hi, I'm **[Nama Kamu]**, a passionate developer who loves building cool and powerful stuff.
 
----
-
-### Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact)
+- 🔥 Currently working on: **[Nama Proyek Kamu]**
+- 🧠 Always learning: **[Topik kamu pelajari]**
+- ⚔️ Tech Stack Warrior: **[sebutkan stack kamu]**
+- 📫 Reach me: **[email atau link sosial media]**
 
 ---
 
-### Let's Connect!
+### 🔧 Tech Arsenal
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/USERNAME)
+![HTML5](https://img.shields.io/badge/HTML5-E53935?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-D32F2F?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B71C1C?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-880E4F?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-C62828?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E53935?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### ✉️ Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF1744?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-D50000?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-C62828?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
+
+---
+
+### ⚡ Fun Fact
+
+> "Code is red. Debugs are blue. I build stuff, and break it too."
